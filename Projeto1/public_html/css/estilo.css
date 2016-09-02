@@ -42,7 +42,7 @@ body{
     display: block;
     color: white;
     text-align: center;
-    padding: 20px 20px;
+    padding: 10px 10px;
     text-decoration: none;
     margin-top: 60px;
     font-size:16px;
@@ -70,7 +70,7 @@ body{
     width:250px;
     height:25px;
     border-radius: 5px 5px;
-    font-family: "Open Sans";
+    font-family:"Open Sans";
     font-size:14px;
 }
 
