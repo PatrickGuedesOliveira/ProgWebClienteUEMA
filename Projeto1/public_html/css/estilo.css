@@ -95,10 +95,17 @@ body{
     font-weight: bold;
 }
 
-.noticias p{
+.noticias {
     color:#003;
-    text-align: center;  
+    font-family: "Open Sans";
+    text-align: left;
+    padding-left: 20px;
+ }
+
+#scroll div:hover{
+    background-color:#CDC9C9;
 }
+
 
 footer{
     background-color: #003;
