@@ -67,6 +67,14 @@ body{
     border-radius: 5px 5px;
     font-family:"Open Sans";
     font-size:14px;
+    background-image: URL('../imagem/Search-icon.png');
+    background-size: 13px 13px;
+    background-position: 1% 50%;
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+    padding-left: 18px;
+    color: #000000;
+    border-radius: 11px;
 }
 
 .conteudo{
