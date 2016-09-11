@@ -43,10 +43,12 @@ body{
     font-size:16px;
     font-weight: bold;
     text-transform: uppercase;
+    transition: background-color .6s;
 }
 
 .menu li a:hover:not(.active) {
     background-color: #003;
+    color: #ccc;
 }
 
 .menu li img {
