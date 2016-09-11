@@ -44,6 +44,7 @@ body{
     font-weight: bold;
     text-transform: uppercase;
     transition: background-color .6s;
+    border-radius: 6px;
 }
 
 .menu li a:hover:not(.active) {
