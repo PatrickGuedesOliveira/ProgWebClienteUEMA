@@ -74,9 +74,9 @@ body{
     background-position: 1% 50%;
     background-repeat: no-repeat;
     background-color: #ffffff;
-    padding-left: 18px;
+    padding: 2px 0 2px 18px;
     color: #000000;
-    border-radius: 11px;
+    border-radius: 8px;
 }
 
 .conteudo{
