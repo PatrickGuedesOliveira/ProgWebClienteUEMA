@@ -231,3 +231,16 @@ footer p{
     overflow: auto; 
     margin-left: 50px;
 }
+
+.acesso{
+    margin-top: 50px;
+}
+
+.bolas{
+    opacity:0.75;
+ }
+
+.bolas:hover{
+   opacity:1;
+   zoom:150%;
+}
