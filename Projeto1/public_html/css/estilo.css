@@ -20,6 +20,10 @@ body{
     border: none;
 
 }
+.menudestaque{
+    background-color: #003;
+    cursor: default;
+}
 .menu {
     list-style-type: none;
     margin: 0;
