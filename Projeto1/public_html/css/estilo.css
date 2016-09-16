@@ -253,9 +253,23 @@ footer p{
 
 .bolas{
     opacity:0.75;
+    
  }
 
 .bolas:hover{
    opacity:1;
-   zoom:150%;
+   transform: scale(1.5);
+}
+
+#titulo_centralizado {
+    text-align: center;
+}
+
+.noticia {
+    float: left;
+    padding-left: 2.5px;
+}
+
+#rodape {
+    box-shadow: inset 0 0 40px #99C;
 }
